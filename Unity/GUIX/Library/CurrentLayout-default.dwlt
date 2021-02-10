@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: Hierarchy
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 119
+  controlID: 67
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -151,7 +151,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -220,7 +220,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 56
+  controlID: 17
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -245,7 +245,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 57
+  controlID: 18
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -436,15 +436,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Self created assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Hafiz\Documents\TP\TP\Sem 2.2\Game UI & UX\Assignment
-    2\Unity\GUIX
+  m_LastProjectPath: C:\Users\Hafiz\Documents\TP\TP\Sem 2.2\Game UI & UX\GUIUX\Unity\GUIX
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: b08e0000
-    m_LastClickedID: 36528
-    m_ExpandedIDs: 000000006c8a0000728a0000788a00008e8a000000ca9a3b
+    m_SelectedIDs: fa350000
+    m_LastClickedID: 13818
+    m_ExpandedIDs: 00000000f035000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -472,7 +471,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000f0350000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -597,21 +596,21 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 9459ffff765effff36fbffff
+      m_ExpandedIDs: b4f7ffff6afbffff4e350000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Teammates
+        m_OriginalName: Teammates
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -2124
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 4
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -657,9 +656,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 194.80501, y: 27.595016, z: 0}
+    m_Target: {x: 830.68695, y: 427.30597, z: 0}
     speed: 2
-    m_Value: {x: 194.80501, y: 27.595016, z: 0}
+    m_Value: {x: 830.68695, y: 427.30597, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -705,13 +704,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.0827077, y: 0.013448868, z: -0.0011172134, w: 0.9964889}
+    m_Target: {x: 0.06987498, y: -0.15646209, z: 0.0110967625, w: 0.98515326}
     speed: 2
-    m_Value: {x: 0.08270541, y: 0.01494349, z: -0.0012412657, w: 0.9964612}
+    m_Value: {x: 0.06841295, y: -0.15499951, z: 0.010759374, w: 0.98548424}
   m_Size:
-    m_Target: 242.6726
+    m_Target: 335.70795
     speed: 2
-    m_Value: 242.6726
+    m_Value: 351.52664
   m_Ortho:
     m_Target: 0
     speed: 2
