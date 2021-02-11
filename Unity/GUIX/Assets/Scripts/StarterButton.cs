@@ -20,4 +20,9 @@ public class StarterButton : MonoBehaviour
     {
         SceneManager.LoadScene("MainMenu");
     }
+
+    public void goGame()
+    {
+        SceneManager.LoadScene("SampleScene");
+    }
 }
