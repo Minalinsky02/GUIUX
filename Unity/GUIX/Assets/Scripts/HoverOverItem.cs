@@ -7,6 +7,7 @@ using UnityEngine.EventSystems;
 public class HoverOverItem : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
 {
     private GameObject childText = null; //  or make public and drag
+
     void Start()
     {
         Text text = GetComponentInChildren<Text>();
@@ -16,6 +17,7 @@ public class HoverOverItem : MonoBehaviour, IPointerEnterHandler, IPointerExitHa
             childText.SetActive(false);
         }
     }
+
     public void OnPointerEnter(UnityEngine.EventSystems.PointerEventData eventData)
     {
         childText.SetActive(true);
