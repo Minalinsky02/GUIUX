@@ -8,11 +8,11 @@ public class Score : MonoBehaviour
 {
     public static int ScorePT;
     public Text ScoreText;
-  
+
     private void Awake()
     {
-        
-;        ScoreText = GetComponent<Text>();
+
+        ScoreText = GetComponent<Text>();
         ScorePT = 0;
     }
     // Update is called once per frame
@@ -24,6 +24,7 @@ public class Score : MonoBehaviour
 
         }
     }
+    
     void Update()
     {
        ScoreText.text = "Point(s): " + ScorePT;
