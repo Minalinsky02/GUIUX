@@ -23,6 +23,6 @@ public class StarterButton : MonoBehaviour
 
     public void goGame()
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("TipScreen");
     }
 }

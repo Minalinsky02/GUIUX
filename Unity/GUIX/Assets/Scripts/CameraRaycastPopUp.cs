@@ -26,7 +26,7 @@ public class CameraRaycastPopUp : MonoBehaviour
 
         var ray = Camera.main.ScreenPointToRay(Input.mousePosition);
 
-        if (Physics.Raycast(ray, out hit, 20f))
+        if (Physics.Raycast(ray, out hit, 10f))
         {
             popUp.SetActive(true);
         }

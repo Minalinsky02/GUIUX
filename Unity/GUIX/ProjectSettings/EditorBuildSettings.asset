@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 2cf44bd81b2d4df489ad0d844e8e78d9
   - enabled: 1
+    path: Assets/Scenes/TipScreen.unity
+    guid: 7c92e50d8b604104697b5b7ed33a61c5
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
